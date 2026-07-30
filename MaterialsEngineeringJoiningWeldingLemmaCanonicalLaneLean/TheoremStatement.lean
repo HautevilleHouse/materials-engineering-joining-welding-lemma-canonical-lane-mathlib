@@ -1,0 +1,13 @@
+import MaterialsEngineeringJoiningWeldingLemmaCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace MaterialsEngineeringJoiningWeldingLemmaCanonicalLaneLean
+
+def theoremStatement : Prop :=
+  ConstrainedJoiningWeldingClosure
+
+theorem theorem_statement_holds : theoremStatement := by
+  exact constrained_joining_welding_endgame
+
+end MaterialsEngineeringJoiningWeldingLemmaCanonicalLaneLean
+end HautevilleHouse
